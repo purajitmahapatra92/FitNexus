@@ -67,4 +67,4 @@ Do not commit your `.env` file to version control. If you add new dependencies o
 ## Contributors
 
 - [@purajitmahapatra92](https://github.com/purajitmahapatra92)
-- [Sushant-1806](https://github.com/Sushant-1806)
+- [@Sushant-1806](https://github.com/Sushant-1806)
