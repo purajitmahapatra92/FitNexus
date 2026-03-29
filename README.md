@@ -68,3 +68,4 @@ Do not commit your `.env` file to version control. If you add new dependencies o
 
 - [@purajitmahapatra92](https://github.com/purajitmahapatra92)
 - [@Sushant-1806](https://github.com/Sushant-1806)
+- [@Light796](https://github.com/Light796)
